@@ -28,7 +28,9 @@ This project analyzes BlinkIT grocery sales data using Power BI to uncover insig
 ## 📸 Dashboard Preview
 
 ![Dashboard Overview](screenshots/dashboard.png)
+
 ![KPI Section](screenshots/kpi_section.png)
+
 
 
 
